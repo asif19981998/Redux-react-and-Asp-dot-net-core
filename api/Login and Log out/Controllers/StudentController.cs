@@ -13,6 +13,11 @@ namespace Login_and_Log_out.Controllers
     [ApiController]
     public class StudentController : ControllerBase
     {
+        List<Student> students = new List<Student>()
+           {
+               new Student(){Name="Asif Islam",Age=25},
+               new Student(){Name="Tamim Islam",Age=35}
+           };
         // GET: api/<StudentController>
         [HttpGet]
         public ICollection<Student> Get()
@@ -34,9 +39,10 @@ namespace Login_and_Log_out.Controllers
 
         // POST api/<StudentController>
         [HttpPost]
-        public Student Post(Student model)
+        public ICollection<Student> Post(Student model)
         {
-            return model;
+            students.Add(model);
+            return students;
         }
 
         // PUT api/<StudentController>/5
