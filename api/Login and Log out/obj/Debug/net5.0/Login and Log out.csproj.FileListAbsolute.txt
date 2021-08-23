@@ -1,0 +1,126 @@
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\appsettings.Development.json
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\appsettings.json
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Login and Log out.exe
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Login and Log out.deps.json
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Login and Log out.runtimeconfig.json
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Login and Log out.runtimeconfig.dev.json
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Login and Log out.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\ref\Login and Log out.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Login and Log out.pdb
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.csproj.AssemblyReference.cache
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.GeneratedMSBuildEditorConfig.editorconfig
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.AssemblyInfoInputs.cache
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.AssemblyInfo.cs
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.csproj.CoreCompileInputs.cache
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.MvcApplicationPartsAssemblyInfo.cs
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.MvcApplicationPartsAssemblyInfo.cache
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\staticwebassets\Login and Log out.StaticWebAssets.Manifest.cache
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\staticwebassets\Login and Log out.StaticWebAssets.xml
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\scopedcss\bundle\Login and Log out.styles.css
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.RazorTargetAssemblyInfo.cache
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.csproj.CopyComplete
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\ref\Login and Log out.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.pdb
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\obj\Debug\net5.0\Login and Log out.genruntimeconfig.cache
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Humanizer.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\BCrypt.Net-Next.dll
+E:\Authentication and Authorization\Login Using React and Api\Login and Log out\Login and Log out\bin\Debug\net5.0\System.Web.Cors.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\appsettings.Development.json
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\appsettings.json
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Login and Log out.exe
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Login and Log out.deps.json
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Login and Log out.runtimeconfig.json
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Login and Log out.runtimeconfig.dev.json
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Login and Log out.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\ref\Login and Log out.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Login and Log out.pdb
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\BCrypt.Net-Next.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Humanizer.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\System.Web.Cors.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.csproj.AssemblyReference.cache
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.GeneratedMSBuildEditorConfig.editorconfig
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.AssemblyInfoInputs.cache
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.AssemblyInfo.cs
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.csproj.CoreCompileInputs.cache
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.MvcApplicationPartsAssemblyInfo.cs
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.MvcApplicationPartsAssemblyInfo.cache
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\staticwebassets\Login and Log out.StaticWebAssets.Manifest.cache
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\staticwebassets\Login and Log out.StaticWebAssets.xml
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\scopedcss\bundle\Login and Log out.styles.css
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.RazorTargetAssemblyInfo.cache
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.csproj.CopyComplete
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\ref\Login and Log out.dll
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.pdb
+E:\React App\2-7-2021\React Redux\crud(react-redux)\api\Login and Log out\obj\Debug\net5.0\Login and Log out.genruntimeconfig.cache
