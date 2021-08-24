@@ -47,9 +47,12 @@ namespace Login_and_Log_out.Controllers
 
         // PUT api/<StudentController>/5
         [HttpPut("{id}")]
-        public void Put(Student model)
+        public ICollection<Student> Put(Student model)
         {
-            var data = model;
+            var index = students.FindIndex(stu => stu.Id == model.Id);
+            students.RemoveAt(index);
+            students.Insert(index, model);
+            return students;
         }
 
         // DELETE api/<StudentController>/5
