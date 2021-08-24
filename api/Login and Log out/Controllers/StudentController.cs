@@ -15,18 +15,18 @@ namespace Login_and_Log_out.Controllers
     {
         List<Student> students = new List<Student>()
            {
-               new Student(){Name="Asif Islam",Age=25},
-               new Student(){Name="Tamim Islam",Age=35}
+               new Student(){Id=1,Name="Asif Islam",Age=25},
+               new Student(){Id=2,Name="Tamim Islam",Age=35},
+               new Student(){Id=3,Name="Amin Islam",Age=35},
+               new Student(){Id=4,Name="Naxor Islam",Age=45},
+               new Student(){Id=5,Name="Rafiq Islam",Age=35},
+               new Student(){Id=6,Name="Junaid Islam",Age=50}
            };
         // GET: api/<StudentController>
         [HttpGet]
         public ICollection<Student> Get()
         {
-            List<Student> students = new List<Student>()
-           {
-               new Student(){Name="Asif Islam",Age=25},
-               new Student(){Name="Tamim Islam",Age=35}
-           };
+         
             return students;
         }
 
@@ -47,14 +47,18 @@ namespace Login_and_Log_out.Controllers
 
         // PUT api/<StudentController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public void Put(Student model)
         {
+            var data = model;
         }
 
         // DELETE api/<StudentController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public ICollection<Student> Delete(int id)
         {
+           var student =  students.Find(stu => stu.Id == id);
+            students.Remove(student);
+            return students;
         }
     }
 }

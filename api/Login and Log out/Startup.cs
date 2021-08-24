@@ -46,21 +46,26 @@ namespace Login_and_Log_out
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-              
+
             }
 
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            //app.UseCors(options =>
+            //{
+            //    //options.WithOrigins(new[]{ "http://localhost:3000"});
+            //    options.AllowAnyOrigin();
+            //    options.AllowAnyHeader();
+            //    options.AllowAnyHeader();
+            //    //options.AllowCredentials();
+            //});
             app.UseCors(options =>
             {
-                options.WithOrigins(new[]{ "http://localhost:3000"});
+                options.AllowAnyOrigin();
                 options.AllowAnyHeader();
-                options.AllowAnyHeader();
-                options.AllowCredentials();
-            });
-
-            app.UseAuthorization();
+                options.AllowAnyMethod();
+            } );
 
             app.UseEndpoints(endpoints =>
             {
